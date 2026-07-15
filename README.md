@@ -1,10 +1,22 @@
 <div align="center">
 
-# Hi 👋, I'm Faiza Gull
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faiza%20Gull&fontSize=70&animation=fadeIn&fontAlignY=35"/>
 
-### 🤖 AI Engineer | Full Stack Developer | Automation Builder
+<h3>
+AI Engineer | Full Stack Developer | Automation Builder
+</h3>
 
-Building AI-powered applications, intelligent agents, and scalable software systems.
+<p>
+Building AI-powered applications, intelligent agents, and scalable software solutions.
+</p>
+
+<a href="https://www.linkedin.com/in/faiza-gull-9b1016275/">
+<img src="https://img.shields.io/badge/LinkedIn-Faiza%20Gull-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://faiza-gull.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel"/>
+</a>
 
 </div>
 
@@ -14,24 +26,44 @@ Building AI-powered applications, intelligent agents, and scalable software syst
 - 🎓 Computer Science Graduate
 - 🤖 AI Engineer focused on LLM applications
 - 🔥 Building AI Agents & Automation Systems
-- 🌱 Currently learning Cloud & DevOps
+- 🌱 Learning Cloud, DevOps & scalable architectures
 - 💡 Interested in Generative AI and SaaS products
 
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🤖 AI / Backend
 
-Python • FastAPI • LangChain • LangGraph • OpenAI API • Gemini API  
-PostgreSQL • MongoDB • ChromaDB • Vector Databases
+### 🤖 AI & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mongodb,docker" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,redis,git,github" />
+</p>
+
 
 ### 🌐 Frontend
 
-React • Next.js • TypeScript • JavaScript • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite" />
+</p>
 
-### ⚙️ Tools
 
-Docker • Git • GitHub • n8n • Postman • VS Code
+### 🧠 AI Tools & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
 
 
 # 🚀 Featured Projects
@@ -41,11 +73,12 @@ Docker • Git • GitHub • n8n • Postman • VS Code
 
 AI-powered footwear platform using computer vision.
 
-Features:
-- Computer Vision
+**Technologies:**
+
 - YOLOv8
 - MediaPipe
 - Three.js
+- Computer Vision
 - Virtual Try-On
 
 
@@ -53,35 +86,57 @@ Features:
 
 RAG-powered customer support platform.
 
-Features:
+**Features:**
+
 - Knowledge Base Retrieval
-- AI-generated responses
+- LLM-powered responses
 - Zendesk escalation
 - FastAPI backend
+- Vector database search
 
 
 ## 🏡 AI Real Estate Automation
 
 AI workflow automation system.
 
-Features:
+**Technologies:**
+
 - Vapi Voice Agent
 - OpenAI
-- n8n workflows
-- CRM automation
+- n8n
+- Airtable CRM
+- Automated lead qualification
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=faiza22-byte&show_icons=true&theme=transparent" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiza22-byte&theme=transparent" />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=faiza22-byte&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiza22-byte&theme=transparent&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiza22-byte&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
 
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/faiza-gull-9b1016275/
+<p>
 
-🌐 Portfolio:
-https://faiza-gull.vercel.app/
+<a href="https://www.linkedin.com/in/faiza-gull-9b1016275/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://faiza-gull.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
