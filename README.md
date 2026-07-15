@@ -107,10 +107,6 @@ and Computer Vision.
 
 </p>
 
-Additional:
-- Three.js
-- Blender
-- Streamlit
 
 
 ## 🗄 Databases & Tools
@@ -121,8 +117,6 @@ Additional:
 
 </p>
 
-- ChromaDB
-- JIRA
 
 
 # 🚀 Featured Projects
@@ -150,7 +144,7 @@ Features:
 - Perspective correction
 
 🎥 Demo:
-YOUR_YOUTUBE_LINK_HERE
+https://www.youtube.com/shorts/Qh1v9-5geT0
 
 
 
@@ -176,7 +170,7 @@ Features:
 - Automated Zendesk ticket creation
 
 🎥 Demo:
-YOUR_YOUTUBE_LINK_HERE
+https://www.youtube.com/watch?v=wTyNRMMJTjc&t=17s
 
 
 
@@ -202,7 +196,7 @@ Features:
 - Personalized follow-ups
 
 🎥 Demo:
-YOUR_YOUTUBE_LINK_HERE
+https://www.youtube.com/watch?v=6vhAQmEujv0&t=8s
 
 
 
@@ -227,23 +221,8 @@ Features:
 - Covenant breach prediction
 
 🎥 Demo:
-YOUR_YOUTUBE_LINK_HERE
+https://www.youtube.com/watch?v=wF8zahiHYOI
 
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faiza22-byte&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiza22-byte&theme=transparent&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiza22-byte&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
 
 
 # 🌐 Connect With Me
