@@ -27,16 +27,6 @@ and Computer Vision.
 </div>
 
 
-# 🚀 About Me
-
-🎓 Computer Science Graduate from PUCIT, University of the Punjab
-
-🤖 Aspiring AI Engineer focused on:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Deep Learning
-- Computer Vision Systems
 
 🔥 Experienced in building production-ready AI applications, automation workflows, and scalable APIs.
 
